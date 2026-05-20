@@ -5,16 +5,15 @@
     <img src="https://komarev.com/ghpvc/?username=ItsMagick&label=Profile%20views&color=00FFFF&style=flat-square" alt="ItsMagick's profile views" />
   </a>
 </p>
+
 ---
 
 <p align="center">
   <a href="https://github.com/ItsMagick">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMagick&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ItsMagick's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsMagick&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" />
   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ItsMagick">
-    <img src="https://streak-stats.demolab.com/?user=ItsMagick&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <a href ="" >
+    <img height=180em src="https://streak-stats.demolab.com/?user=ItsMagick&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   </a>
 </p>
 
@@ -47,7 +46,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 </p>
+
 ---
+
 <p align="center">
   <a href="https://github.com/ItsMagick">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsMagick&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
